@@ -38,3 +38,6 @@ CONFIG_ZMK_BLE=y
 
 #EXT POWER
 CONFIG_ZMK_EXT_POWER=y
+
+# Configuraciones de la pantalla
+CONFIG_NICE_VIEW_GEM_ANIMATION=n
