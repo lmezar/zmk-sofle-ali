@@ -2,10 +2,10 @@
 include:
   # Left part
   - board: eyelash_sofle_left
-    shield: corne_left nice_view_adapter nice_view_battery
+    shield: eyelash_sofle_left nice_view_adapter nice_view_battery
   # Right part
   - board: eyelash_sofle_right
-    shield: corne_right nice_view_adapter nice_view_battery
+    shield: eyelash_sofle_right nice_view_adapter nice_view_battery
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
     artifact-name: eyelash_sofle_studio_left
