@@ -72,7 +72,7 @@
 &kp GRAVE       &kp Q         &kp W         &kp E         &kp R         &kp T           &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB         &kp A         &kp S         &kp D         &kp F         &kp H           &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp LEFT_SHIFT  &kp Z         &kp X         &kp C         &kp V         &kp B           &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans          &to 3         &to 0         &kp LCTRL     &kp SPACE     &kp LEFT_ALT    &trans  &trans  &trans  &trans  &trans  &trans
+&trans          &none         &none         &kp LCTRL     &kp SPACE     &kp LEFT_ALT    &trans  &to 0   &to 3   &trans  &trans  &trans
             >;
 
             label = "GAME";
